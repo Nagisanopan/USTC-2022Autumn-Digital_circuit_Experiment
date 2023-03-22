@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Nov 24 00:00:13 2022
+# Process ID: 72140
+# Current directory: D:/zhuomian/lab7/lab3/lab3.runs/impl_1
+# Command line: vivado.exe -log lab3top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source lab3top.tcl -notrace
+# Log file: D:/zhuomian/lab7/lab3/lab3.runs/impl_1/lab3top.vdi
+# Journal file: D:/zhuomian/lab7/lab3/lab3.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source lab3top.tcl -notrace

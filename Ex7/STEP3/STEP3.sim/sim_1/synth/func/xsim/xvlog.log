@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/USTC/2nd year-1st sem/Digital circuit Experiment/Ex7/STEP3/STEP3.sim/sim_1/synth/func/xsim/te_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_0
+INFO: [VRFC 10-311] analyzing module clk_wiz_0_clk_wiz
+INFO: [VRFC 10-311] analyzing module test
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/USTC/2nd year-1st sem/Digital circuit Experiment/Ex7/STEP3/STEP3.srcs/sim_1/new/te.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module te

@@ -1,0 +1,27 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Dec  1 18:16:36 2022
+# Process ID: 27300
+# Current directory: D:/zhuomian/lab3
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7572 D:\zhuomian\lab3\lab3.xpr
+# Log file: D:/zhuomian/lab3/vivado.log
+# Journal file: D:/zhuomian/lab3\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/zhuomian/lab3/lab3.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'E:/vivado/Vivado/2019.1/data/ip'.
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+[Thu Dec  1 18:25:44 2022] Launched synth_1...
+Run output will be captured here: D:/zhuomian/lab3/lab3.runs/synth_1/runme.log
+[Thu Dec  1 18:25:44 2022] Launched impl_1...
+Run output will be captured here: D:/zhuomian/lab3/lab3.runs/impl_1/runme.log
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Dec  1 18:29:34 2022...

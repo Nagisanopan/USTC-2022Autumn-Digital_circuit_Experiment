@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Thu Dec  1 18:31:13 2022
+# Process ID: 18624
+# Current directory: E:/USTC/2nd year-1st sem/Digital circuit Experiment/Ex8/lab3
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3432 E:\USTC\2nd year-1st sem\Digital circuit Experiment\Ex8\lab3\lab3.xpr
+# Log file: E:/USTC/2nd year-1st sem/Digital circuit Experiment/Ex8/lab3/vivado.log
+# Journal file: E:/USTC/2nd year-1st sem/Digital circuit Experiment/Ex8/lab3\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {E:/USTC/2nd year-1st sem/Digital circuit Experiment/Ex8/lab3/lab3.xpr}
+upgrade_project -migrate_output_products
+update_compile_order -fileset sources_1

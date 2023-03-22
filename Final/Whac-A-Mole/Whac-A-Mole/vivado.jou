@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Tue Mar 21 22:06:30 2023
+# Process ID: 41400
+# Current directory: E:/USTC/2nd_year-1st_sem/Digital circuit Experiment/Final/Whac-A-Mole/Whac-A-Mole
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent33592 E:\USTC\2nd_year-1st_sem\Digital circuit Experiment\Final\Whac-A-Mole\Whac-A-Mole\Whac-A-Mole.xpr
+# Log file: E:/USTC/2nd_year-1st_sem/Digital circuit Experiment/Final/Whac-A-Mole/Whac-A-Mole/vivado.log
+# Journal file: E:/USTC/2nd_year-1st_sem/Digital circuit Experiment/Final/Whac-A-Mole/Whac-A-Mole\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {E:/USTC/2nd_year-1st_sem/Digital circuit Experiment/Final/Whac-A-Mole/Whac-A-Mole/Whac-A-Mole.xpr}
+update_compile_order -fileset sources_1

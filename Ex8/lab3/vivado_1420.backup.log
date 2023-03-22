@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Thu Dec  1 20:23:03 2022
+# Process ID: 1420
+# Current directory: E:/USTC/2nd year-1st sem/Digital circuit Experiment/Ex8/lab3
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13948 E:\USTC\2nd year-1st sem\Digital circuit Experiment\Ex8\lab3\lab3.xpr
+# Log file: E:/USTC/2nd year-1st sem/Digital circuit Experiment/Ex8/lab3/vivado.log
+# Journal file: E:/USTC/2nd year-1st sem/Digital circuit Experiment/Ex8/lab3\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {E:/USTC/2nd year-1st sem/Digital circuit Experiment/Ex8/lab3/lab3.xpr}
+WARNING: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'E:/USTC/2nd year-1st sem/Digital circuit Experiment/Ex8/lab3/lab3.gen/sources_1'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'E:/USTC/2nd year-1st sem/Digital circuit Experiment/Ex8/fpgaollab22.xdc'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Vivado/Vivado/2021.1/data/ip'.
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Dec  1 20:49:33 2022...
